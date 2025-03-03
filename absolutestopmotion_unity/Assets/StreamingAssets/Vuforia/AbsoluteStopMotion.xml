@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="card_vfx" size="0.080000 0.149170" />
+    <ImageTarget name="card_set" size="0.080000 0.149170" />
+    <ImageTarget name="card_mystery_front" size="0.080000 0.149170" />
+    <ImageTarget name="card_mystery_back" size="0.080000 0.149170" />
+    <ImageTarget name="card_music" size="0.080000 0.149170" />
+    <ImageTarget name="card_modifier" size="0.080000 0.149170" />
+    <ImageTarget name="card_actor" size="0.080000 0.149170" />
+  </Tracking>
+</QCARConfig>
