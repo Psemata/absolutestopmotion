@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.2.0">
+        <ModelTarget name="GeonnyAmiboFbx" targetId="6e56feafed594c82a705cdcfaaf87480" version="14.0" toolVersion="v7.2.0" bbox="-0.133443 -0.000000 -0.119953 0.133443 0.527448 0.119953" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="GeonnyAmiboFbx" assemblyId="1c22dc796788431291d3213a8f3895ef">
+        <Part name="GeonnyAmiboFbx" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

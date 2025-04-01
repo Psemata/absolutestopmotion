@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.2.0">
+        <ModelTarget name="geonny-amiibo2" targetId="efb278a7bd6f44bab6f393ba414d1841" version="14.0" toolVersion="v7.2.0" bbox="-0.021541 -0.000000 -0.019363 0.021541 0.085142 0.019363" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="geonny-amiibo2" assemblyId="6473d3715dc64b979c48e887a64cc4eb">
+        <Part name="geonny-amiibo2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

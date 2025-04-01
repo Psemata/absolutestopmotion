@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.2.0">
+        <ModelTarget name="geonny-token" targetId="f672516505b04044b9ae5be9dc18f8ea" version="14.0" toolVersion="v7.2.0" bbox="-0.040996 0.000116 -0.034764 0.041004 0.014116 0.047236" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="geonny-token" assemblyId="cd7fbd797310438c80551bb9f28397d1">
+        <Part name="geonny-token" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
